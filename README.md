@@ -1,5 +1,5 @@
 ## Olá Mundo! 
-### Me chamo Gabriel Rodrigues, seja bem-vindo, informações de Contato a disposição abaixo, sinta-se a vontade!
+### Me chamo Gabriel Rodrigues, seja bem-vindo ao meu perfil, informações de Contato a disposição abaixo, sinta-se a vontade!
 
 <div align="center">
   <a href="https://github.com/gabrielucido">
