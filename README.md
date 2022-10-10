@@ -15,7 +15,7 @@
   <img align="center" alt="Gabriel-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/figma/figma-original.svg">
   <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Gabriel-Django" height="30" width="30" src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png">
-  <img align="right" alt="Gabriel-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/Q3sQcXn.png">
+  <img align="right" alt="Gabriel-pic" height="150" style="border-radius:50px;" src="https://imgur.com/UW4wRvQ">
 </div>
 
 <br>
