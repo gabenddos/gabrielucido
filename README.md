@@ -15,8 +15,6 @@
  | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gabrielucido&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielucido&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
  | ----------- | ----------- |
 
-   ![Snake animation](https://github.com/gabrielucido/gabrielucido/blob/output/github-contribution-grid-snake.svg)
-
 <div align="center">
   <a href="https://github.com/gabrielucido">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielucido&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
